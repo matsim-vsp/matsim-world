@@ -27,3 +27,7 @@ pieces of the failed attempt in the directory and start over.
 ### Import into IntelliJ
 
 ... todo ...
+
+### Internal Documentation
+
+See [GoogleDoc](https://docs.google.com/document/d/1lb4KJFHu5-6mxYKEbTx1aPQm9sYOIU8DemMJ8MMZvkY/edit)
